@@ -54,10 +54,23 @@ $ npm start
 
 $ Navbar
 
-$ Main Page
+$ Main Area
 
-$ Right side Area
+$ Right Side Area
 
 
 ## Navbar
-$ In navbar area, to get the icons like twitter i used react-icons
+$ In navbar area, to get the icons like twitter I used react-icons by import files AiOutlineAlignLeft, AiOutlineDown, AiOutlineFileGif, AiOutlinePicture, AiOutlineSearch, AiOutlineTwitter.
+$ In navbar area, a button is added to give it a similar look as of twitter and I used className attribute 'icons' for all the elements in navbar to make it more interactive by using hover effect, whenever the cursor reaches to the elements color changes to red.
+
+## Main Page
+$ Main page or the middle area is made by using div,br,img,button tags with className attribute and to make it more suitable App.css file is used.
+  The images are taken from google and for that we just have to copy the image address to the src attribute of img tag so that it can be visible in the image.
+   
+## Right Side Area
+$ In Right Side Area, the div, input tags are used to give it a look like tweets area in twitter.
+
+
+# Deploy the Application on Vercel
+$ To deploy the application on vercel first we need to link it to gitHub or any other Git repository and then click on add project from where we have to add our 
+application from gitHub to the vercel then deploy it and make sure that the directory should be enabled so that we can easily access our application through webpage.
