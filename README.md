@@ -59,5 +59,5 @@ $ Main Page
 $ Right side Area
 
 
-##Navbar
+## Navbar
 $ In navbar area, to get the icons like twitter i used react-icons
